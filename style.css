@@ -364,6 +364,18 @@ body {
   font-size: .8em;
 }
 
+.logo {
+  flex: 1;
+  text-align: center;
+  margin: 10px;
+  max-width: 50%;
+  height: auto;
+}
+
+.logo-img-f {
+  max-width: 3em;
+}
+
 .footer-link {
     color: var(--text-light);
     text-decoration: none;
