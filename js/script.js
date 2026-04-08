@@ -83,7 +83,7 @@
 
     // Initialize Testimonials Swiper
     const testimonialsSwiper = new Swiper('.testimonialsSwiper', {
-      slidesPerView: 3,
+      slidesPerView: 4,
       spaceBetween: 30,
       loop: true,
       autoplay: {
@@ -100,14 +100,14 @@
       },
       breakpoints: {
         300: {
-          slidesPerView: 1,
+          slidesPerView: 2,
         },
         768: {
-          slidesPerView: 2,
+          slidesPerView: 3,
           spaceBetween: 20,
         },
-        1200: {
-          slidesPerView: 3,
+        1200: 
+          slidesPerView: 4,
           spaceBetween: 30,
         },
       },
