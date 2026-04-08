@@ -356,6 +356,14 @@ body {
     height: 349px;
 }
 
+.logo-container-f {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1em;
+  font-size: .8em;
+}
+
 .footer-link {
     color: var(--text-light);
     text-decoration: none;
