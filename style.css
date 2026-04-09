@@ -286,8 +286,8 @@ body {
 }
 
 .project-desc {
-    font-size: 12px;
-    text-align: left;
+    font-size: 12px !important;
+    text-align: left !important;
 }
 
 .date-text {
