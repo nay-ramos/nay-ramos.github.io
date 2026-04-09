@@ -1,3 +1,10 @@
+---
+layout: page
+title: Meu Primeiro Artigo
+---
+
+[Voltar para o início](/)
+
 # AirBNB New York Revenue Analysis     <font size=2>v2.0</font>
   <code style="color:#4a304f"><font color= #d689e6>bootcamp project</font></code>
 
