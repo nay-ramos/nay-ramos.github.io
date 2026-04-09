@@ -285,6 +285,10 @@ body {
     letter-spacing: -1.5px;
 }
 
+.project-desc {
+    font-size: 12px;
+}
+
 .date-text {
     font-size: 18px;
     letter-spacing: 2.16px;
