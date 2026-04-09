@@ -324,6 +324,7 @@ body {
     border-radius: 20px;
     overflow: hidden;
     transition: all 0.3s ease;
+    font-size: 12px;
 }
 
 .card-custom:hover {
