@@ -765,8 +765,17 @@ body {
     }
 }
 
-.worksSwiper .card-custom img:not(.badge-icon) {
+/* Imagens do carrossel de projetos */
+.worksSwiper .card-custom img:not([src*="img.shields.io"]) {
     width: 100% !important;
     height: 280px !important;
     object-fit: cover !important;
+}
+
+/* Protege os badges */
+img[src*="img.shields.io"] {
+    width: auto !important;
+    height: 20px !important;  /* Ajuste a altura que você quiser */
+    display: inline-block !important;
+    margin: 2px !important;
 }
