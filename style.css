@@ -765,8 +765,7 @@ body {
     }
 }
 
-/* Forçar todas as imagens do carrossel a ficarem iguais */
-.worksSwiper .card-custom img {
+.worksSwiper .card-custom img:not(.badge-icon) {
     width: 100% !important;
     height: 280px !important;
     object-fit: cover !important;
