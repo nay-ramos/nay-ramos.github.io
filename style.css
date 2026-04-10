@@ -781,7 +781,7 @@ img[src*="img.shields.io"] {
 }
 
 .about-pic {
-    position: absolute;
+    position: absolute !important;
     height: auto !important;
     width: 400px  !important;
 }
